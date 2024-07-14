@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/cGfwBk5trt5vIPm2pfvqhAmc5cx44sxNIQgOv5yT/De6ZxhXJySBzhZTuG6iaCcEGc+cEMVU+CUTmAMZfKpw==",
+  "success": true,
+  "projectFilePath": "/Users/ben/Documents/Coding/C#/csharp_bot/Website/bot.csproj",
+  "expectedPackageFiles": [
+    "/Users/ben/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/ben/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ben/.nuget/packages/selenium.webdriver/4.17.0/selenium.webdriver.4.17.0.nupkg.sha512",
+    "/Users/ben/.nuget/packages/selenium.webdriver.chromedriver/121.0.6167.8500/selenium.webdriver.chromedriver.121.0.6167.8500.nupkg.sha512"
+  ],
+  "logs": []
+}
